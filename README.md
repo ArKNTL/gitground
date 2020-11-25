@@ -1,1 +1,0 @@
-# Testing ground for practicing and learning Git and Web Development
