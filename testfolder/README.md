@@ -1,1 +1,0 @@
-# Testing ground for Git
